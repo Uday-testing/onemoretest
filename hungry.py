@@ -6,3 +6,4 @@ else:
 
 print('Awesome')
 print('end')
+print('test2')
